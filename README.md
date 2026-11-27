@@ -1,8 +1,11 @@
+Replace your very first section with this. Keep everything from ## 👨‍💻 About Me onward unchanged.
 <div align="center">
 
-<img src="assets/profile-banners.png" alt="Shayan Deep Ghosh - Developer Banner" width="100%">
+<h1>👋 Hi, I'm Shayan Deep Ghosh</h1>
 
-<h3>Web Developer from India 🇮🇳</h3>
+<h3>💻 Web Developer from India 🇮🇳</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=PHP+%26+WordPress+Developer;WooCommerce+%26+Shopify+Developer;Currently+Learning+Python+%F0%9F%90%8D;Always+Learning+Something+New" alt="Typing animation" />
 
 <p>
 Building for the web, learning new things, and improving one line of code at a time.
