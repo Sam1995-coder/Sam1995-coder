@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Shayan Deep Ghosh - Developer Banner" width="100%">
+<img src="assets/profile-banners.png" alt="Shayan Deep Ghosh - Developer Banner" width="100%">
 
 <h3>Web Developer from India 🇮🇳</h3>
 
